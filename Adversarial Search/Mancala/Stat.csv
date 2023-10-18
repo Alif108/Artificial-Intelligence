@@ -1,0 +1,68 @@
+Heuristic (Player 1),Heuristic (Player 2),Depth (Player 1),Depth (Player 2),Game Result (Player win)
+Simple Probailistic,Simple Probailistic,10,10,1
+Simple Probailistic,Simple Probailistic,10,5,1
+Simple Probailistic,Simple Probailistic,5,10,2
+Difference of Goal Stones,Difference of Goal Stones,10,10,Tie
+Difference of Goal Stones,Difference of Goal Stones,10,5,1
+Difference of Goal Stones,Difference of Goal Stones,3,10,2
+Difference of Total Stones,Difference of Total Stones,10,10,1
+Difference of Total Stones,Difference of Total Stones,10,5,1
+Difference of Total Stones,Difference of Total Stones,5,10,2
+How Close to Victory,How Close to Victory,10,10,2
+How Close to Victory,How Close to Victory,10,5,1
+How Close to Victory,How Close to Victory,5,10,2
+How Close to Goal,How Close to Goal,10,10,1
+How Close to Goal,How Close to Goal,4,10,2
+How Close to Goal,How Close to Goal,10,5,1
+Captured Stones,Captured Stones,10,10,1
+Captured Stones,Captured Stones,10,5,1
+Captured Stones,Captured Stones,5,10,2
+Additional Move Earned,Additional Move Earned,10,10,Tie
+Additional Move Earned,Additional Move Earned,5,10,2
+Additional Move Earned,Additional Move Earned,10,5,1
+Simple Probailistic,Difference of Goal Stones,10,10,2
+Simple Probailistic,Difference of Total Stones,10,10,2
+Simple Probailistic,How Close to Victory,10,10,2
+Simple Probailistic,How Close to Goal,10,10,2
+Simple Probailistic,Captured Stones,10,10,2
+Simple Probailistic,Additional Move Earned,10,10,2
+Difference of Goal Stones,Simple Probailistic,10,10,1
+Difference of Goal Stones,Difference of Total Stones,10,10,2
+Difference of Goal Stones,How Close to Victory,10,10,2
+Difference of Goal Stones,How Close to Goal,10,10,1
+Difference of Goal Stones,How Close to Goal,12,12,2
+Difference of Goal Stones,Captured Stones,10,10,2
+Difference of Goal Stones,Additional Move Earned,10,10,1
+Difference of Total Stones,Simple Probailistic,10,10,1
+Difference of Total Stones,Difference of Goal Stones,11,11,1
+Difference of Total Stones,How Close to Victory,12,12,2
+Difference of Total Stones,How Close to Victory,10,10,1
+Difference of Total Stones,How Close to Goal,10,10,1
+Difference of Total Stones,Captured Stones,10,10,1
+Difference of Total Stones,Additional Move Earned,10,10,2
+How Close to Victory,Simple Probailistic,10,10,1
+How Close to Victory,Difference of Goal Stones,10,10,1
+How Close to Victory,Difference of Total Stones,10,10,2
+How Close to Victory,How Close to Goal,10,10,2
+How Close to Victory,Captured Stones,10,10,2
+How Close to Victory,Additional Move Earned,10,10,1
+How Close to Goal,Simple Probailistic,10,10,1
+How Close to Goal,Difference of Goal Stones,10,10,1
+How Close to Goal,Difference of Total Stones,10,10,1
+How Close to Goal,How Close to Victory,10,10,2
+How Close to Goal,Captured Stones,10,10,1
+How Close to Goal,Additional Move Earned,10,10,2
+Captured Stones,Simple Probailistic,10,10,1
+Captured Stones,Difference of Goal Stones,10,10,1
+Captured Stones,Difference of Total Stones,10,10,1
+Captured Stones,How Close to Victory,12,12,1
+Captured Stones,How Close to Victory,10,10,2
+Captured Stones,How Close to Goal,10,10,1
+Captured Stones,Additional Move Earned,10,10,2
+Additional Move Earned,Simple Probailistic,10,10,1
+Additional Move Earned,Difference of Goal Stones,10,10,1
+Additional Move Earned,Difference of Total Stones,10,10,2
+Additional Move Earned,How Close to Victory,10,10,2
+Additional Move Earned,How Close to Victory,12,12,1
+Additional Move Earned,How Close to Goal,10,10,1
+Additional Move Earned,Captured Stones,10,10,1
